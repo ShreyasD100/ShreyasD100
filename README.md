@@ -1,7 +1,7 @@
 ![MasterHead](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
-<img align="right" width="400" src="https://blog.sagipl.com/wp-content/uploads/2019/06/hire-full-stack-developers1546507474317-1.gif">
+<img align="right" width="350" src="https://blog.sagipl.com/wp-content/uploads/2019/06/hire-full-stack-developers1546507474317-1.gif">
 
 - 🌱 I’m currently learning **Website Development**
 
